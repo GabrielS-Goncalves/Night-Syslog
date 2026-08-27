@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-shadow: #030303 1px 1px;
+  background-image: url("/src/assets/login/loginBackground.png");
+  background-size: cover;
+}
